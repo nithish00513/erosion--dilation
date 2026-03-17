@@ -90,7 +90,7 @@ plt.axis("off")
 <br>
 <br>
 <br>
-<img width="383" height="400" alt="image" src="https://github.com/user-attachments/assets/c1cdbd46-61de-4777-8699-757e35a5af1f" />
+<img width="492" height="488" alt="image" src="https://github.com/user-attachments/assets/45dac858-120f-4c93-84d6-83eb1527a34f" />
 
 
 <br>
