@@ -27,8 +27,8 @@ Display the original and processed images using plt.imshow() with proper axis co
 
 Finalize by calling plt.show() to display all images in a single figure for easy visualization and comparison.
 
-## REG NO: 212224230006
-## NAME : ABISHEIK RAJ J
+## REG NO: 212224230190
+## NAME : nithish kumar s
 ## Program:
 ### Import the necessary packages
 ```
